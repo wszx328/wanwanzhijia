@@ -1,0 +1,4 @@
+# 丸丸日记
+
+## if($gameSwitches.value(21)):  日记1
+\bookPicture 日记1

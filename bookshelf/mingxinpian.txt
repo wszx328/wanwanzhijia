@@ -1,0 +1,10 @@
+# 明信片
+
+## if($gameSwitches.value(101)):  明信片1
+\bookPicture CG1
+
+## if($gameSwitches.value(102)):  明信片2
+\bookPicture CG2
+
+## if($gameSwitches.value(103)):  明信片3
+\bookPicture CG3
